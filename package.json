@@ -1,0 +1,22 @@
+{
+  "name": "idpaywallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Re9iNee/idPayVirtualWallet.git"
+  },
+  "keywords": [
+    "virtualWallet"
+  ],
+  "author": "R9",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Re9iNee/idPayVirtualWallet/issues"
+  },
+  "homepage": "https://github.com/Re9iNee/idPayVirtualWallet#readme"
+}
